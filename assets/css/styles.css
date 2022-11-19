@@ -81,3 +81,17 @@
   .rounded {
     border-radius: 1.6rem !important;
   }
+
+  .border-lemon {
+    border: 5px solid #66ff0e;
+  }
+
+  .bg-lemon {
+    background: #5de80d;
+  }
+
+  .timeline {
+    width: 3px;
+    height: 4rem;
+    border-left: 0.4rem dotted #66ff0e;
+  }
